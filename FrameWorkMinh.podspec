@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, '13.0'
   spec.summary      = 'FrameWorkMinh '
   spec.requires_arc = true
-  spec.version      = '1.0.0'
+  spec.version      = '0.1'
   spec.module_name  = 'FrameWorkMinh'
   spec.license      = {:type =>'MIT',:file => 'LICENSE'}
   spec.authors      = { 'Minhvv' => 'minhvv@vtvlive.vn' }
