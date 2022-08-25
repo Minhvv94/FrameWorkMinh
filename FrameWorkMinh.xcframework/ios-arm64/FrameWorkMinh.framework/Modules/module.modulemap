@@ -1,0 +1,6 @@
+framework module FrameWorkMinh {
+  umbrella header "FrameWorkMinh.h"
+
+  export *
+  module * { export * }
+}
